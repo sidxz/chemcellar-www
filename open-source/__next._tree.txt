@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/09-g.a1c6y7de.css","style"]
+:HL["/_next/static/media/InstrumentSans_VF-s.p.0y8jx7w3fwoer.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/JetBrainsMono_VF.p.0k7c~8yje8jwj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/OverusedGrotesk_wordmark.p.02br~dwx91ks4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"open-source","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"jEsdFO1hZwnZvrDZZ1UBs"}
